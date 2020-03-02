@@ -11,7 +11,7 @@
 	<packaging>war</packaging>
 
 	<name>Gestão Patrimonial</name>
-	<url>http://localhost:8080/gestao</url>
+	<url>http://localhost:8080/gestao-patrimonial</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
