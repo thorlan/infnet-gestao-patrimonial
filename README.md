@@ -6,3 +6,4 @@
   - Marcos Aurélio de Moraes, Mátricula: 48897400159
 
 - ATENÇÃO: o projeto usa o database: gestaopatrimonial (deve ser criado manualmente)
+- Nome de usuário e senha padrão para acesso ao banco: root/root
